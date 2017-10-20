@@ -1,0 +1,6 @@
+print("hello world\n")
+print("hello world"\t)
+print("hello world"\a)
+print("hello world"\b)
+print("hello world"\c)
+print("hello world"\d)
